@@ -24,13 +24,13 @@ Maka, solusi-solusi yang perlu diupayakan adalah:
 
 Berikut adalah daftar usulan layanan, aplikasi, dan alat yang berpotensi untuk dikembangkan:
 
-[ ] Sebuah layanan independen untuk memerangi hate speech dan hoax.
-[ ] Sebuah layanan/aplikasi independen untuk mengamankan internet.
-[ ] Sebuah aplikasi crowdfunding untuk membantu masyarakat yang membutuhkan.
-[ ] Sebuah aplikasi untuk menghubungkan petani dengan pembeli.
-[ ] Sebuah alat pengecekan pajak.
-[ ] Sebuah playground untuk masyarakat mengenal teknologi sambil bermain.
-[ ] Sebuah blog untuk mendokumentasikan semua kegiatan Proyek Kolaborasi.
+- [ ] Sebuah layanan independen untuk memerangi hate speech dan hoax.
+- [ ] Sebuah layanan/aplikasi independen untuk mengamankan internet.
+- [ ] Sebuah aplikasi crowdfunding untuk membantu masyarakat yang membutuhkan.
+- [ ] Sebuah aplikasi untuk menghubungkan petani dengan pembeli.
+- [ ] Sebuah alat pengecekan pajak.
+- [ ] Sebuah playground untuk masyarakat mengenal teknologi sambil bermain.
+- [ ] Sebuah blog untuk mendokumentasikan semua kegiatan Proyek Kolaborasi.
 
 Apabila teman-teman memiliki usulan, silahkan kirimkan pull request untuk menambah daftar di atas.
 
