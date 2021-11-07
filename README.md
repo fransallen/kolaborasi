@@ -31,6 +31,7 @@ Berikut adalah daftar usulan layanan, aplikasi, dan alat yang berpotensi untuk d
 - [ ] Sebuah alat pengecekan pajak.
 - [ ] Sebuah playground untuk masyarakat mengenal teknologi sambil bermain.
 - [ ] Sebuah blog untuk mendokumentasikan semua kegiatan Proyek Kolaborasi.
+- [ ] Aplikasi web scraping kumpulan resource skripsi untuk membantu mahasiswa mendapatkan bahan/resource untuk skripsinya.
 
 Apabila teman-teman memiliki usulan, silahkan kirimkan pull request untuk menambah daftar di atas.
 
